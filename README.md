@@ -1,2 +1,2 @@
-# harjoitelu
-harjoitelu-github
+# git-exercise-2
+exercise-github
